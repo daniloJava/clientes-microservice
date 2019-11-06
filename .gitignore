@@ -1,0 +1,3 @@
+clientes_venv/*
+__pycache__/*
+*.pyc
